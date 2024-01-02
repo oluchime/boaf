@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1702354095,,"wq!"
+|2,0,1704166384,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +25,33 @@
 # Registers:
 
 # File marks:
-'0  99  31  ~/wker.sh
-|4,48,99,31,1702354095,"~/wker.sh"
+'0  8  0  ~/paste.txt
+|4,48,8,0,1704166384,"~/paste.txt"
+'1  99  31  ~/wker.sh
+|4,49,99,31,1702354095,"~/wker.sh"
 
 # Jumplist (newest first):
+-'  8  0  ~/paste.txt
+|4,39,8,0,1704166384,"~/paste.txt"
+-'  1  0  ~/paste.txt
+|4,39,1,0,1704166349,"~/paste.txt"
+-'  99  31  ~/wker.sh
+|4,39,99,31,1702354095,"~/wker.sh"
 -'  99  31  ~/wker.sh
 |4,39,99,31,1702354095,"~/wker.sh"
 -'  1  0  ~/wker.sh
 |4,39,1,0,1702354074,"~/wker.sh"
+-'  1  0  ~/wker.sh
+|4,39,1,0,1702354074,"~/wker.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/paste.txt
+	*	1704166378	0
+	"	8	0
+	^	8	0
+	.	7	0
+	+	7	0
 
 > ~/wker.sh
 	*	1702354088	0

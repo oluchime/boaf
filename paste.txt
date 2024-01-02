@@ -1,0 +1,8 @@
+Projects we have been managing:
+
+Currently I am managing software development for Taco town
+Tryingt to make their payment gateway userfriendly
+it is a java based project
+I am not a developer so I basically paly a supevisory role
+
+
